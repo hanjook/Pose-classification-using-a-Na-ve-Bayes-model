@@ -1,7 +1,3 @@
-Simplified keypoint dataset for yoga pose classification
-K. Ehinger
-Created for COMP30027 Machine Learning, sem 1, 2021, The University of Melbourne
-
 Images: Yoga Pose Classification dataset
 https://www.amarchenkova.com/2018/12/04/data-set-convolutional-neural-network-yoga-pose/
 
